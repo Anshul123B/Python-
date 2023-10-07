@@ -1,2 +1,2 @@
 # Python-
-This Repository contain some of my Python code.
+This Repository contains the programs which are made using Python.
